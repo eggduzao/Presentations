@@ -1,0 +1,4 @@
+#!/bin/bash
+
+# RAE1 (duplicates): chr20:57,351,104-57,352,200
+# GATA1 (SNP): chrX:48,788,440-48,788,559
